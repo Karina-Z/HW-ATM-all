@@ -5,7 +5,7 @@ public class Main {
 
         Area area = new Area();
         System.out.println("Area of a rectangle " + area.rectangleArea(4.56, 3.18));
-        System.out.println("Area of a square " +area.squareArea(4));
-        System.out.println("Area of a circle " +area.circleArea(3.8));
+        System.out.println("Area of a square " + area.squareArea(4));
+        System.out.println("Area of a circle " + area.circleArea(3.8));
     }
 }
